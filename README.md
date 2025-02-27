@@ -4,6 +4,10 @@
 - NextJs 15
 - Tailwind v4
 - Typescript 5
+- ShadCN UI
+- Jest
+- Next Themes
+- Prettier / ESLint
 
 It requires Node V20+ to run.
 
