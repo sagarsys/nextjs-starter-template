@@ -1,4 +1,4 @@
-import './globals.css';
+import '@/styles/globals.css';
 import { geistMono, geistSans } from '@/config/fonts';
 import { ReactNode } from 'react';
 
