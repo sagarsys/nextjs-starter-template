@@ -1,5 +1,4 @@
-import type { Metadata } from "next";
-import "./globals.css";
+import './globals.css';
 import { geistMono, geistSans } from '@/config/fonts';
 import { ReactNode } from 'react';
 
