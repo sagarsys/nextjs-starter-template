@@ -5,7 +5,6 @@
 - Tailwind v4
 - Typescript 5
 - ShadCN UI
-- Tanstack Query
 - Jest
 - Next Themes
 - Prettier / ESLint
@@ -22,3 +21,8 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Alternate Versions
+
+- Tanstack Query Ready
+    - Checkout branch: `tanstack` for a version with `tanstack-query` preinstalled and ready to go! 
