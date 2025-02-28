@@ -5,6 +5,7 @@
 - Tailwind v4
 - Typescript 5
 - ShadCN UI
+- Tanstack Query
 - Jest
 - Next Themes
 - Prettier / ESLint
